@@ -1,10 +1,7 @@
-# 
-This repository contains all the blogs that are being featured across various learning platforms.
-
 # Welcome to FeaturedBlogs-Backup👋
 
 <p align="center">
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/FeaturedBlogs-BackUp.png"></a>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Featured-Blogs-BackUp.png"></a>
 </p>
 
 
