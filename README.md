@@ -14,7 +14,7 @@ The main goal of this repository is add up all the blogs that are being featured
 
 The listed below mentions all my featured blogs and articles across various learning platforms and websites. 
 
-- [Reinforcement Learning for Beginners](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/) - This article has been featurd in Analytics Vidya Platform and also been mentioned in [Neptune.ai](https://neptune.ai/blog)
+- [Reinforcement Learning for Beginners](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/) - This article has been featurd in [Analytics Vidya](https://www.analyticsvidhya.com/) Platform and also been mentioned in [Neptune.ai](https://neptune.ai/blog)
 
 
 <h2>📜 Code Of Conduct</h2>
