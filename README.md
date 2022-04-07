@@ -7,13 +7,15 @@
 
 <h2>📌Repository</h2>
 
-The main goal of this repository is add up all the blogs that are being featured across various learning platforms!!.🚀
+The main goal of this repository is to append up all the blogs and applications that are being featured across various web platforms!!.🚀
 
 
 <h2>👍List Of All My Featured Blogs</h2>
 
 The listed below mentions all my featured blogs and articles across various learning platforms and websites. 
 
+- [Water Quality Monitoring Dashboard in Kutch region](https://omdena.com/blog/satellite-imagery-for-water-quality-monitoring/) - This article has been featured in [Omdena](https://omdena.com/)
+- [Nakagawa Safest Path during Earthquakes](https://www.linkedin.com/posts/prathima-kadari_omdena-ai-socialgood-activity-6905085689285767168-Xd_g) - This application has been featured in [Streamlit Weekly Round UP Forum](https://discuss.streamlit.io/t/weekly-roundup-ag-grid-tutorials-custom-components-web-scraping-made-easy-and-more/23025)
 - [Reinforcement Learning for Beginners](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/) - This article has been featurd in [Analytics Vidya](https://www.analyticsvidhya.com/) Platform and also been mentioned in [Neptune.ai](https://neptune.ai/blog)
 
 
