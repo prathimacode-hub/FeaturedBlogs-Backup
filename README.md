@@ -14,9 +14,19 @@ The main goal of this repository is to append up all the blogs and applications 
 
 The listed below mentions all my featured blogs and articles across various learning platforms and websites. 
 
-- [Water Quality Monitoring Dashboard in Kutch region](https://omdena.com/blog/satellite-imagery-for-water-quality-monitoring/) - This article has been featured in [Omdena](https://omdena.com/)
-- [Nakagawa Safest Path during Earthquakes](https://www.linkedin.com/posts/prathima-kadari_omdena-ai-socialgood-activity-6905085689285767168-Xd_g) - This application has been featured in [Streamlit Weekly Round UP Forum](https://discuss.streamlit.io/t/weekly-roundup-ag-grid-tutorials-custom-components-web-scraping-made-easy-and-more/23025)
-- [Reinforcement Learning for Beginners](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/) - This article has been featurd in [Analytics Vidya](https://www.analyticsvidhya.com/) Platform and also been mentioned in [Neptune.ai](https://neptune.ai/blog)
+- [Text Based Healthcare Chatbot supporting Admitted Patients](https://omdena.com/blog/healthcare-chatbot/)- This article has been featured in [Omdena](https://omdena.com/) and challenge is from Omdena Hyderabad Chapter (Role - Hyderabad Chapter Co-Lead)
+- [Measuring Soil Organic Carbon Changes using RothC and Machine Learning](https://omdena.com/blog/measuring-soil-organic-carbon-changes-using-rothc/) - This article has been featured in [Omdena](https://omdena.com/) and application is from Azolla Projects
+- [Applying Satellite Imagery for Water Quality Monitoring in Kutch region](https://omdena.com/blog/satellite-imagery-for-water-quality-monitoring/) - This article has been featured in [Omdena](https://omdena.com/) and challenge is from Omdena Kutch Chapter
+- [Nakagawa Safest Path during Earthquakes](https://www.linkedin.com/posts/prathima-kadari_omdena-ai-socialgood-activity-6905085689285767168-Xd_g) - This application has been featured in [Streamlit Weekly Round UP Forum](https://discuss.streamlit.io/t/weekly-roundup-ag-grid-tutorials-custom-components-web-scraping-made-easy-and-more/23025) and application is from Omdena Japan Chapter
+- [Reinforcement Learning for Beginners](https://www.analyticsvidhya.com/blog/2021/02/introduction-to-reinforcement-learning-for-beginners/) - This article has been featurd in [Analytics Vidya](https://www.analyticsvidhya.com/) and also been mentioned in [Neptune.ai](https://neptune.ai/blog) Social Media Platforms
+
+
+### In Progress
+
+- Sorting & Segregation of Waste Materials using Computer Vision
+- Application of Road Safety in India
+- Safest Path during Natural Disasters in Japan
+- Increasing Renewable Energy Access in India using AI
 
 
 <h2>📜 Code Of Conduct</h2>
