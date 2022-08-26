@@ -1,7 +1,7 @@
 # Welcome to FeaturedBlogs-Backup👋
 
 <p align="center">
-<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Featured-Blogs-BackUp.png"></a>
+<img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Cover%20Photos/Featured-Blogs-BackUp.png"></a>
 </p>
 
 
